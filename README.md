@@ -26,10 +26,6 @@ bution over targets depends on their ordering, violating permutation consistency
 we investigate alternative approaches to obtain a more robust and order-agnostic estimate of the
 joint target distribution.
 
-Before presenting the replication results and the extensions, we first provide background on NPs in
-general, the specific NP models used in our experiments and the concept of AR inference.
-
-
 *[1] W. P. Bruinsma, S. Markou, J. Requiema, A. Y. Foong, T. R. Andersson, A. Vaughan, A. Buonomo,
 J. S. Hosking, and R. E. Turner, “Autoregressive conditional neural processes,” arXiv preprint
 arXiv:2303.14468, 2023.*
